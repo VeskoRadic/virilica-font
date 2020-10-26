@@ -8,6 +8,6 @@ Cyrillic, numbers and basic characters.
 
 Completely covered Unicode basic latin and cyrillic blocks. Also, a somewhat expanded set of glyphs in font. Several characters have alternative variants.
 
-### Fixed
+### Changed
 
 All the characters that existed were reworked.
