@@ -10,4 +10,4 @@ Completely covered Unicode basic latin and cyrillic blocks. Also, a somewhat exp
 
 ### Changed
 
-All the characters that existed were reworked.
+All the glyphs that existed were reworked.
