@@ -8,6 +8,8 @@ About
 
 Yet another OFL font generally intended for comics. It is a hobby project, so I accept responsibility for all possible mistakes in advance.
 
+![virilica_example](https://github.com/VeskoRadic/virilica-font/blob/main/lorem_ipsum.png)
+
 Licence
 -------
 
